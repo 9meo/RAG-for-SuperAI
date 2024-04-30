@@ -36,8 +36,8 @@ def main():
             with st.spinner("Thinking..."):
                 message_placeholder = st.empty()
                 prompt= retrieval(st.session_state.messages[-1]['content'])
-                full_response = send_api(prompt=prompt['prompt'])
-                message_placeholder.markdown(full_response['content'])
+                full_response = send_api(prompt=prompt['prompt'])['content']
+                message_placeholder.markdown(full_response)
                 message_placeholder = st.empty()
 
               
