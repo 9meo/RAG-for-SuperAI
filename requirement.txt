@@ -10,6 +10,7 @@ llama-index
 docx2txt
 llama-index-embeddings-huggingface
 llama-index-embeddings-instructor
+llama-index-readers-wikipedia
 bitsandbytes
 fastapi 
 pydantic
