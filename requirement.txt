@@ -6,6 +6,10 @@ torchaudio
 datasets
 pandas 
 numpy
+llama-index
+docx2txt
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
 bitsandbytes
 fastapi 
 pydantic
@@ -13,9 +17,6 @@ Requests
 streamlit
 uvicorn
 python-multipart
-langchain
-langchain_community
-jq
 faiss-cpu
 tiktoken
 watchdog
