@@ -12,9 +12,10 @@ run app with streamlit
 streamlit run src/main.py       
 ```
 
-## How to prepair database
+## Examples
 
 see at 
-`notebook/prepair_data.ipynb`
+`notebook/text-embedding.ipynb`
+`notebook/indexing.ipynb`
 
 
