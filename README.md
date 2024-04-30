@@ -21,7 +21,4 @@ streamlit run src/main.py
 - Retrieval+LLM [[Colab](https://colab.research.google.com/github/9meo/buuQA/blob/main/notebook/5.retrieval+llm.ipynb)]
 
 
-`notebook/text-embedding.ipynb`
-`notebook/indexing.ipynb`
-
 
