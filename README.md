@@ -14,7 +14,13 @@ streamlit run src/main.py
 
 ## Examples
 
-see at 
+- Text Embedding [[Colab](https://colab.research.google.com/github/9meo/buuQA/blob/main/notebook/1.text-embedding.ipynb)]
+- Indexing [[Colab](https://colab.research.google.com/github/9meo/buuQA/blob/main/notebook/2.indexing.ipynb)]
+- Searching [[Colab](https://colab.research.google.com/github/9meo/buuQA/blob/main/notebook/3.searching.ipynb)]
+- llama.cpp [[Colab](https://colab.research.google.com/github/9meo/buuQA/blob/main/notebook/4.llamacpp.ipynb)]
+- Retrieval+LLM [[Colab](https://colab.research.google.com/github/9meo/buuQA/blob/main/notebook/5.retrieval+llm.ipynb)]
+
+
 `notebook/text-embedding.ipynb`
 `notebook/indexing.ipynb`
 
