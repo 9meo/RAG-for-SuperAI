@@ -12,7 +12,7 @@ from llama_index.core import Settings
 class ContextRetrieval():
     def __init__(self,
                  db_path,
-                 embed_path="./models/bge-m3"):
+                 embed_path="/Users/9meo/Dev/llm/bge-m3"):
         
         # self.docno_to_answer = json.load(open('docno_to_answer.json','r'))
         self.embeddings = HuggingFaceEmbedding(model_name=embed_path,max_length=1024, device='cpu')
