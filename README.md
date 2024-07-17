@@ -18,7 +18,7 @@ streamlit run src/main.py
 - Indexing [[Colab](https://colab.research.google.com/github/9meo/RAG-for-SuperAI/blob/main/notebook/2.indexing.ipynb)]
 - Searching [[Colab](https://colab.research.google.com/github/9meo/RAG-for-SuperAI/blob/main/notebook/3.searching.ipynb)]
 - llama.cpp [[Colab](https://colab.research.google.com/github/9meo/RAG-for-SuperAI/blob/main/notebook/4.llamacpp.ipynb)]
-- Retrieval+LLM [[Colab](https://colab.research.google.com/github/9meo/RAG-for-SuperAI/blob/main/notebook/5.retrieval+llm.ipynb)]
+- Retrieval+LLM [[Colab](https://colab.research.google.com/github/9meo/RAG-for-SuperAI/blob/main/notebook/5.retrieval%2Bllm.ipynb)]
 
 
 
